@@ -1,0 +1,1 @@
+console.log("mar gya madarchod lalala")
